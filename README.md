@@ -1,6 +1,15 @@
-### PiKarma
 
-Detects wireless network attacks performed by KARMA module
+```python
+
+              ██████╗ ██╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗ 
+              ██╔══██╗██║██║ ██╔╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+              ██████╔╝██║█████╔╝ ███████║██████╔╝██╔████╔██║███████║
+              ██╔═══╝ ██║██╔═██╗ ██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+              ██║     ██║██║  ██╗██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+              ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+                                                      
+            Detects wireless network attacks performed by KARMA module
+```
 
 
 #### How works KARMA Module?
@@ -16,5 +25,7 @@ Detects wireless network attacks performed by KARMA module
 
 + FruityWifi
 + WiFi Pineapple
++ Mana (improvements to KARMA attacks)
 + ..
+
 
