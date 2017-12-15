@@ -11,6 +11,11 @@
                   Detects wireless network attacks performed by KARMA module
 ```
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-2-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
+
+</p>
+
 #### Working Principle
 
 + Collects all the packets from Wireless Network. (Probe Response) 
