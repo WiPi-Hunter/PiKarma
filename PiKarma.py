@@ -72,7 +72,7 @@ def air_scan(pkt):
             info_list.append(info)
 
 
-def pp_analysis(info_list, pp, pisavar_method):
+def pp_analysis(info_list, pp, pikarma_method):
     """
     Analysis air_scan result for pineAP Suite detection
     """
