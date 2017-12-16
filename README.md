@@ -33,7 +33,7 @@
 <img src="https://github.com/besimaltnok/pikarma/blob/master/karma.gif">
 
 
-#### Software and hardware using the KARMA module
+#### Softwares and hardwares that uses KARMA module
 
 + FruityWifi
 + WiFi Pineapple
