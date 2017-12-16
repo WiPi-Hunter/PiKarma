@@ -16,7 +16,7 @@
 
 </p>
 
-#### Working Principle
+#### Working Principle for PiKarma
 
 + Collects all the packets from Wireless Network. (Probe Response) 
 + Analyses all the packets in real time.
@@ -24,7 +24,7 @@
 + Logs the activity with some extra information within defined template and sends deauthentication packets 
 
 
-#### How works KARMA Module?
+#### How works KARMA Attack?
 
 + Sends Probe Response for all Probe Requests
 
