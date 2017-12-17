@@ -40,3 +40,6 @@
 + Mana (improvements to KARMA attacks)
 + ..
 
+
+#### Screenshots
+<img src="karma_detect.png" width="45%"></img>
