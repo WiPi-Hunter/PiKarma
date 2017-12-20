@@ -43,6 +43,10 @@
 #### Screenshots
 <img src="karma_detect.png" width="45%"></img>
 
+#### Soon to be added features
+
++ New techniques for KARMA and MANA attacks
+
 #### DEMO
 
 + https://www.youtube.com/playlist?list=PLwHi7Vsh6TpNrCX87KRzO9WVtHmqqC2aB
