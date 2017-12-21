@@ -50,3 +50,47 @@
 #### DEMO
 
 + https://www.youtube.com/playlist?list=PLwHi7Vsh6TpNrCX87KRzO9WVtHmqqC2aB
+
+### Usage
+
+#### Requirements
+
+* **Hardware:** TP LINK TL-WN722N or Dark RangeMax wifi card
+* **Modules:** scapy, time, termcolor, argparse
+
+#### Kali Linux:
+
+Download PiKarma:
+
+`git clone https://github.com/WiPi-Hunter/PiKarma.git`
+
+Install Python librarie(s):
+
+`pip install termcolor`
+
+It's done!
+
+Run the program with following command: 
+
+Monitor mode:
+
+```python
+airmon-ng start interface(wlan0,wlan1) (Monitor mode)
+
+or 
+
+ifconfig wlan0 down
+iwconfig wlan0 mode Monitor
+ifconfig wlan0 up
+```
+
+Run:
+
+```python
+cd PiKarma
+python PiKarma.py -h
+```
+
+
+
+
