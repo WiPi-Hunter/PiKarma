@@ -56,7 +56,7 @@
 #### Requirements
 
 * **Hardware:** TP LINK TL-WN722N or Dark RangeMax wifi card
-* **Modules:** scapy, time, termcolor, argparse
+* **Modules:** scapy, time, termcolor, argparse, netifaces, logging
 
 #### Kali Linux:
 
