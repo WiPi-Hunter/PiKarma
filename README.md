@@ -45,7 +45,7 @@
 
 #### Soon to be added features
 
-+ New techniques for KARMA and MANA attacks
++ New techniques for detect KARMA and MANA attacks
 
 #### DEMO
 
