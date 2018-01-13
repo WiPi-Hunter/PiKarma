@@ -46,6 +46,7 @@
 #### Soon to be added features
 
 + New techniques for detect KARMA and MANA attacks
++ Logging SSID information used in KARMA and MANA attack
 
 #### DEMO
 
