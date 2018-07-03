@@ -14,6 +14,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-2-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
 <a href="https://www.blackhat.com/asia-18/arsenal/schedule/index.html#wipi-hunter---detects-illegal-wireless-network-activities-9854"><img src="https://rawgit.com/toolswatch/badges/master/arsenal/asia/2018.svg"></a>
+<a href="https://defcon.org/html/defcon-26/dc-26-demolabs.html#WiPi-Hunter"><img src="https://hackwith.github.io/badges/defcon/26/demolabs.svg"></a>
 </p>
 
 #### Working Principle for PiKarma
